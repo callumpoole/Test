@@ -3,6 +3,7 @@
 Formatting Tips:
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 - https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax
+- http://www.emoji-cheat-sheet.com/
 
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
@@ -49,15 +50,14 @@ Let's rename \*our-new-project\* to \*our-old-project\*
 
 
 Key: 
-![A][Green] Something 1
-![B][Yellow] Something 2
-![C][Orange] Something 3
-![D][Red] Something 4
-![][GreenAlt] Something 5
-![][YellowAlt] Something 6
-![][OrangeAlt] Something 7
-![][RedAlt] Something 8
-![][BlueNoHover] Something 9
+- [![A][Green]](#) Something 1
+- [![B][Yellow]](#) Something 2
+- [![C][Orange]](#) Something 3
+- [![D][Red]](#) Something 4
+- [![][BlueNoHover]](#) Something 5
+
+[![](http://example.com/path/image)](#) - Turn of clicking
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") Someone's test png
 
 [Green]: https://placehold.it/15/00ff00/000000?text=+ "Green Hover Text"
 [Yellow]: https://placehold.it/15/ffff00/000000?text=+ "Yellow Hover Text"
