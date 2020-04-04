@@ -44,9 +44,7 @@ Let's rename \*our-new-project\* to \*our-old-project\*
 3. Step 3
 
 
- - ![](https://placehold.it/15/ffffff/ff0000?text=hello)
- - ![](https://placehold.it/15/ffffff/ff0000?text=hello)
- - ![](https://placehold.it/15/1589F0/000000?text=+)
+ - ![](https://placehold.it/100/ffffff/ff0000?text=hello) Coloured text as an image
 
 
 Basic-Key: 
@@ -62,13 +60,12 @@ Google-Key:
 - [![D][RedGoogle]](#) RedGoogle
 
 Soft-Key:
-- [![A][GreenSoft]](#) Green
-- [![B][YellowSoft]](#) Yellow
-- [![C][OrangeSoft]](#) Orange
-- [![D][RedSoft]](#) Red
+- [![A][GreenSoft]](#) GreenSoft
+- [![B][YellowSoft]](#) YellowSoft
+- [![C][OrangeSoft]](#) OrangeSoft
+- [![D][RedSoft]](#) RedSoft
 
-[![](http://example.com/path/image)](#) - Turn of clicking
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") Someone's test png
+[![](http://example.com/path/image)](#) - Turn off clicking
 
 [Green]: https://placehold.it/15/00ff00/000000?text=+ "Green"
 [Yellow]: https://placehold.it/15/ffff00/000000?text=+ "Yellow"
