@@ -54,11 +54,13 @@ Basic-Key:
 - [![B][Yellow]](#) Yellow
 - [![C][Orange]](#) Orange
 - [![D][Red]](#) Red
+
 Google-Key:
 - [![A][GreenGoogle]](#) GreenGoogle
 - [![B][YellowGoogle]](#) YellowGoogle
 - [![C][BlueGoogle]](#) BlueGoogle
 - [![D][RedGoogle]](#) RedGoogle
+
 Soft-Key:
 - [![A][GreenSoft]](#) Green
 - [![B][YellowSoft]](#) Yellow
@@ -78,5 +80,5 @@ Soft-Key:
 [RedGoogle]: https://placehold.it/15/EA4335/000000?text=+ "Red Google"
 [GreenSoft]: https://placehold.it/15/4ee346/000000?text=+ "Green Soft"
 [YellowSoft]: https://placehold.it/15/f7f42d/000000?text=+ "Yellow Soft"
-[OrangeSoft]: https://placehold.it/15/de7614/000000?text=+ "Orange Soft"
+[OrangeSoft]: https://placehold.it/15/ffa033/000000?text=+ "Orange Soft"
 [RedSoft]: https://placehold.it/15/f03c15/000000?text=+ "Red Soft"
