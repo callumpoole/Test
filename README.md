@@ -46,3 +46,25 @@ Let's rename \*our-new-project\* to \*our-old-project\*
  - ![](https://placehold.it/15/ffffff/ff0000?text=hello)
  - ![](https://placehold.it/15/ffffff/ff0000?text=hello)
  - ![](https://placehold.it/15/1589F0/000000?text=+)
+
+
+Key: 
+![A][Green] Something 1
+![B][Yellow] Something 2
+![C][Orange] Something 3
+![D][Red] Something 4
+![][GreenAlt] Something 5
+![][YellowAlt] Something 6
+![][OrangeAlt] Something 7
+![][RedAlt] Something 8
+![][BlueNoHover] Something 9
+
+[Green]: https://placehold.it/15/00ff00/000000?text=+ "Green Hover Text"
+[Yellow]: https://placehold.it/15/ffff00/000000?text=+ "Yellow Hover Text"
+[Orange]: https://placehold.it/15/ff7700/000000?text=+ "Orange Hover Text"
+[Red]: https://placehold.it/15/ff0000/000000?text=+ "Red Hover Text"
+[GreenAlt]: https://placehold.it/15/00ff00/ff00ff?text=+ "Green Alt Hover Text"
+[YellowAlt]: https://placehold.it/15/ffff00/0000ff?text=+ "Yellow Alt Hover Text"
+[OrangeAlt]: https://placehold.it/15/ff7700/0077ff?text=+ "Orange Alt Hover Text"
+[RedAlt]: https://placehold.it/15/ff0000/00ffff?text=+ "Red Alt Hover Text"
+[BlueNoHover]: https://placehold.it/15/0000ff/000000?text=+ ""
