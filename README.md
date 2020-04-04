@@ -42,7 +42,7 @@ Let's rename \*our-new-project\* to \*our-old-project\*
 2. Step 2
 3. Step 3
 
-![#ffffff](https://placehold.it/150/ffffff/ff0000?text=hello)
-![#ff0000](https://placehold.it/150/ffffff/ff0000?text=hello)
-![](https://placehold.it/150/ffffff/ff0000?text=hello)
-!(https://placehold.it/150/ffffff/ff0000?text=hello)
+
+ - ![](https://placehold.it/15/ffffff/ff0000?text=hello)
+ - ![](https://placehold.it/15/ffffff/ff0000?text=hello)
+ - ![](https://placehold.it/15/1589F0/000000?text=+)
